@@ -1,4 +1,4 @@
-<a align="center" href="https://www.youtube.com/shorts/hHJlNf5i9mE">Я по жизни здравый пацан></a>
+<a align="center" href="https://www.youtube.com/shorts/hHJlNf5i9mE">Я по жизни здравый пацан</a>
 
 
 
