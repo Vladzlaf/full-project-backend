@@ -1,9 +1,3 @@
-<div align="center">
-  <a href='https://www.youtube.com/shorts/hHJlNf5i9mE'><h1 style="color: white;">Я по жизни здравый пацан</h1></a>
-</div>
-
-
-
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
