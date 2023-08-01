@@ -1,6 +1,5 @@
 <div align="center">
-  <h1 style="color: white;">Я по жизни здравый пацан</h1>
-  <p><a href="https://www.youtube.com/shorts/hHJlNf5i9mE" style="color: white;">Ссылка на видео</a></p>
+  <a href="https://www.youtube.com/shorts/hHJlNf5i9mE" style="color: white;"><h1 style="color: white;">Я по жизни здравый пацан</h1></a>
 </div>
 
 
