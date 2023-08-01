@@ -21,8 +21,6 @@ export class UsersRepo {
   async getList(): Promise<UsersEntity[]> {
     const response = await this.httpService.axiosRef.get('/character');
 
-    console.log(response.data);
-
     if (response.data && response.data.results) {
       return response.data.results;
     }
