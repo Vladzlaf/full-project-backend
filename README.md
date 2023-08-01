@@ -1,5 +1,5 @@
-<h1 align="center">Я по жизни здравый пацан</h1>
-    <p align="center">Ссылка на видео: <a href="https://www.youtube.com/shorts/hHJlNf5i9mE">https://www.youtube.com/shorts/hHJlNf5i9mE</a></p>
+<a href="https://www.youtube.com/shorts/hHJlNf5i9mE"><h1 align="center">Я по жизни здравый пацан</h1></a>
+
 
 
 <p align="center">
